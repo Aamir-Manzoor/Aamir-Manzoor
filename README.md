@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Amir Manzoor</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://ibb.co/ystzKhH">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212259384-ac922d39-ba72-4cad-93bc-b78c83eff0b8.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir221&label=Profile%20views&color=0e75b6&style=flat" alt="aamir221" /> </p>
