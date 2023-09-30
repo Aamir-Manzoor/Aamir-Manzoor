@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Amir Manzoor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVkoa5Zmw03uvtFi-ZxBCUcBOJLoOfpOBFQ&usqp=CAU">
 
 
