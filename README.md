@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MERN-Stack Projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **MERN Stack**
 
