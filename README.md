@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aamir-Manzoor&show_icons=true&locale=en&layout=compact" alt="Aamir-Manzoor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aamir-Manzoor&show_icons=true&locale=en" alt="Aamir-Manzoor" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aamir-Manzoor&" alt="Aamir-Manzoor" /></p>
